@@ -31,12 +31,12 @@ body {
 /* 테마 hover / 선택 시 배경 */
 body.hover-college,
 body.selected-college {
-  background: var(linear-gradient(90deg, #ff850b 0%, #ffb200 100%));
+  background: linear-gradient(90deg, #ff850b 0%, #ffb200 100%);
 }
 
 body.hover-sports,
 body.selected-sports {
-  background: var(linear-gradient(90deg, #27a836 0%, #41d051 100%));
+  background: linear-gradient(90deg, #27a836 0%, #41d051 100%);
 }
 
 body.hover-idol,
