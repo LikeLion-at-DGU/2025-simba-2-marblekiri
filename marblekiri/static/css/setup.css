@@ -232,6 +232,9 @@ body.selected-custom {
   font-size: 15px;
   color: #000;
 }
+.button-container {
+  padding-left: 15px;
+}
 
 /* 제거 버튼 */
 .remove-btn {

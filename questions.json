@@ -1,1642 +1,1642 @@
 [
-{
-  "model": "main.question",
-  "pk": 0,
-  "fields": {
-    "theme": "college",
-    "content": "지각 제일 많이 할 것 같은 사람 지목하기"
+  {
+    "model": "main.question",
+    "pk": 0,
+    "fields": {
+      "theme": "college",
+      "content": "지각 제일 많이 할 것 같은 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 1,
+    "fields": {
+      "theme": "college",
+      "content": "마감 전날 벼락치기 가장 많이 할 것 같은 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 2,
+    "fields": {
+      "theme": "college",
+      "content": "이번 학기 수업 교수님 이름 줄줄이 말하기 시작 ! 기억 못 하면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 3,
+    "fields": {
+      "theme": "college",
+      "content": "팀플에서 잠수 타본 사람 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 4,
+    "fields": {
+      "theme": "college",
+      "content": "CC 경험 있으면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 5,
+    "fields": {
+      "theme": "college",
+      "content": "시험 전날 범위 확인한 적 있으면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 6,
+    "fields": {
+      "theme": "college",
+      "content": "과방 한 번도 안 가봤으면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 7,
+    "fields": {
+      "theme": "college",
+      "content": "MT 에서 일어난 흑역사 말하기 (다른 사람 흑역사도 가능) 못 말하면 마셔 ~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 8,
+    "fields": {
+      "theme": "college",
+      "content": "싸강 처음부터 끝까지 딴 짓 안 하고 들어봤으면 너 인정."
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 9,
+    "fields": {
+      "theme": "college",
+      "content": "공강이 없다고요? 눈물의 한 잔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 10,
+    "fields": {
+      "theme": "college",
+      "content": "올클 경험자입니까? 기만자는 마시자."
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 11,
+    "fields": {
+      "theme": "college",
+      "content": "학번 헷갈려서 말 놓은 적 있으면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 12,
+    "fields": {
+      "theme": "college",
+      "content": "지금부터 3턴 동안 할머니 게임 시작 웃는 사람 벌칙"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 13,
+    "fields": {
+      "theme": "college",
+      "content": "애교 뀨?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 14,
+    "fields": {
+      "theme": "college",
+      "content": "오늘 인스타 스토리 올린 거 젤 많은 사람 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 15,
+    "fields": {
+      "theme": "college",
+      "content": "대학생활 중 가장 웃겼던 잼얘 썰 풀기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 16,
+    "fields": {
+      "theme": "college",
+      "content": "이제는 말할 수 있다. 대학 생활 중 가장 빡쳤던 썰 풀기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 17,
+    "fields": {
+      "theme": "college",
+      "content": "지금 턴인 사람 오른쪽 사람과 러브샷 고고링"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 18,
+    "fields": {
+      "theme": "college",
+      "content": "대학교 최악의 강의 썰 하나 풀기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 19,
+    "fields": {
+      "theme": "college",
+      "content": "당신의 연애는… 안녕하십니까? 아니요는 마실까?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 20,
+    "fields": {
+      "theme": "college",
+      "content": "지금 우리 학교로 N행시"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 21,
+    "fields": {
+      "theme": "college",
+      "content": "지목 러브샷"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 22,
+    "fields": {
+      "theme": "college",
+      "content": "건배사 하고 다 같이 한 잔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 23,
+    "fields": {
+      "theme": "college",
+      "content": "오늘 이 자리에서 한 명과 단둘이 술 마신다면?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 24,
+    "fields": {
+      "theme": "college",
+      "content": "본인 포함 3명 지목 함께 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 25,
+    "fields": {
+      "theme": "college",
+      "content": "이번주 과제 제일 많은 사람 한 잔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 26,
+    "fields": {
+      "theme": "college",
+      "content": "학년이 가장 높은 사람 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 27,
+    "fields": {
+      "theme": "college",
+      "content": "손병호 게임 시작"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 28,
+    "fields": {
+      "theme": "college",
+      "content": "랜덤 게임 시작!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 29,
+    "fields": {
+      "theme": "college",
+      "content": "침묵의 공공칠빵 시작!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 30,
+    "fields": {
+      "theme": "college",
+      "content": "MBTI T면 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 31,
+    "fields": {
+      "theme": "college",
+      "content": "술 쿨타임 찼다. 마시자!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 32,
+    "fields": {
+      "theme": "college",
+      "content": "인스타 팔로워 젤 많은 사람 마셔!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 33,
+    "fields": {
+      "theme": "sports",
+      "content": "최근 직관 간 사람 제외, 나머지 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 34,
+    "fields": {
+      "theme": "sports",
+      "content": "응원법 따라 못 하면 마시기 (박자 틀리면 원샷)"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 35,
+    "fields": {
+      "theme": "sports",
+      "content": "유니폼 소장 중인 사람은 통과, 없으면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 36,
+    "fields": {
+      "theme": "sports",
+      "content": "본인이 승리요정이다! 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 37,
+    "fields": {
+      "theme": "sports",
+      "content": "시차 때문에 새벽 경기 본 사람 마시기\n최애 이적에 충격 먹은 적 있다면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 38,
+    "fields": {
+      "theme": "sports",
+      "content": "혼자 직관 or 단관해본 사람 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 39,
+    "fields": {
+      "theme": "sports",
+      "content": "팀 응원도구 하나라도 있으면 통과, 없으면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 40,
+    "fields": {
+      "theme": "sports",
+      "content": "도핑테스트! 흥분 상태 유지 중인 사람 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 41,
+    "fields": {
+      "theme": "sports",
+      "content": "응원팀 우승 경험 말 못하면 눈물의 한 잔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 42,
+    "fields": {
+      "theme": "sports",
+      "content": "최애/팀이 비매너 논란 있었던 적 있다면… 쉴드 치지 말고 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 43,
+    "fields": {
+      "theme": "sports",
+      "content": "최애 선수 백넘버 기억 못 하면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 44,
+    "fields": {
+      "theme": "sports",
+      "content": "최애가 벤치딱이 되었다. 1턴 휴식"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 45,
+    "fields": {
+      "theme": "sports",
+      "content": "형은 그냥 마셔 ~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 46,
+    "fields": {
+      "theme": "sports",
+      "content": "가장 최근 경기 이겼으면 마셔 ~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 47,
+    "fields": {
+      "theme": "sports",
+      "content": "아 비가 온다.. 술이나 먹으러 가자"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 48,
+    "fields": {
+      "theme": "sports",
+      "content": "내 최애가 가장 최근에 이적한 사람 마셔 (공식 공지 기준/ 팀갈일 경우 팀 내 이적 온 사람)"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 49,
+    "fields": {
+      "theme": "sports",
+      "content": "당신의 팀은 매일 지고 있습니다. 마시자…"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 50,
+    "fields": {
+      "theme": "sports",
+      "content": "내 팀/최애가 가장 잘한 경기 3개 5초 안에 말하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 51,
+    "fields": {
+      "theme": "sports",
+      "content": "유니폼 제일 많이 산 사람 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 52,
+    "fields": {
+      "theme": "sports",
+      "content": "내가 가장 열 받았던 경기 썰"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 53,
+    "fields": {
+      "theme": "sports",
+      "content": "최애 선수랑 가장 닮은 사람 지목 러브샷"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 54,
+    "fields": {
+      "theme": "sports",
+      "content": "지목 팀 팬 아닌 사람 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 55,
+    "fields": {
+      "theme": "sports",
+      "content": "제일 싫어하는 상대팀은? 그 팀 팬 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 56,
+    "fields": {
+      "theme": "sports",
+      "content": "내가 좋아하는 팀 이름으로 삼행시"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 57,
+    "fields": {
+      "theme": "sports",
+      "content": "팀 응원가 1초라도 따라하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 58,
+    "fields": {
+      "theme": "sports",
+      "content": "최애 팀 선수 행동 따라하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 59,
+    "fields": {
+      "theme": "sports",
+      "content": "1분 동안 내 팀 자랑만 하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 60,
+    "fields": {
+      "theme": "sports",
+      "content": "입덕 계기 얘기하면서 모두 한 잔!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 61,
+    "fields": {
+      "theme": "sports",
+      "content": "최근 본 영상이 최애면 한 잔!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 62,
+    "fields": {
+      "theme": "sports",
+      "content": "내 최애 선수가 캐리했다. 축하합니다. 마시세요"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 63,
+    "fields": {
+      "theme": "sports",
+      "content": "당신은 가장 최근 직관을 다녀오셨습니다? 맞다면 통과"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 64,
+    "fields": {
+      "theme": "sports",
+      "content": "5초 안에 내 최애 선수 명대사 하나 말하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 65,
+    "fields": {
+      "theme": "sports",
+      "content": "내 선수가 주전이다! 나 빼고 모두 한 잔!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 66,
+    "fields": {
+      "theme": "sports",
+      "content": "최근 덕질 소비가 가장 많은 사람 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 67,
+    "fields": {
+      "theme": "sports",
+      "content": "내 최애의 흑역사 하나씩 말하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 68,
+    "fields": {
+      "theme": "sports",
+      "content": "우리팀이 좋은 이유 3가지 10초 안에 말하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 69,
+    "fields": {
+      "theme": "idol",
+      "content": "최애 성대모사 실패하면 마시기 (심사는 전원 다수결)"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 70,
+    "fields": {
+      "theme": "idol",
+      "content": "입덕한 지 제일 얼마 안 된 사람, 원샷"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 71,
+    "fields": {
+      "theme": "idol",
+      "content": "입덕 연차 제일 높은 사람… 자존심 세우지 말고 마셔요"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 72,
+    "fields": {
+      "theme": "idol",
+      "content": "지금 나는 최애 인형을 가지고 왔다. 인형 자랑하면서 마셔볼까?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 73,
+    "fields": {
+      "theme": "idol",
+      "content": "10초 안에 최애가 좋은 이유 3가지 말하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 74,
+    "fields": {
+      "theme": "idol",
+      "content": "민첩한 하루 보내세요 “눈치게임 시작”"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 75,
+    "fields": {
+      "theme": "idol",
+      "content": "가장 최근에 최애에게 버블 온 효자 누구야?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 76,
+    "fields": {
+      "theme": "idol",
+      "content": "최애 생일이 짝수인 사람 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 77,
+    "fields": {
+      "theme": "idol",
+      "content": "공계 팔로워 제일 많은 존잘님 마셔주세요"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 78,
+    "fields": {
+      "theme": "idol",
+      "content": "입덕을 축하합니다. 다같이 입덕주 !"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 79,
+    "fields": {
+      "theme": "idol",
+      "content": "돌려돌려 포카 뽑기 뽑았는데 다른 집 아들이다? 엄마 서운해요 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 80,
+    "fields": {
+      "theme": "idol",
+      "content": "탈빠 실패 위로하며 다같이 원샷"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 81,
+    "fields": {
+      "theme": "idol",
+      "content": "왼쪽 사람 최애 장점 10초 안에 3개"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 82,
+    "fields": {
+      "theme": "idol",
+      "content": "대리티켓팅! 오른쪽 사람이 한 잔 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 83,
+    "fields": {
+      "theme": "idol",
+      "content": "가장 최근에 저장한 사진이 최애가 아니라면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 84,
+    "fields": {
+      "theme": "idol",
+      "content": "돌아가면서 X씨성 가진 아이돌 말하기 ( X씨는 첫 사람이 정하기 !)"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 85,
+    "fields": {
+      "theme": "idol",
+      "content": "왼쪽 사람이 정해준 날짜에 구최애게 스케줄 있었으면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 86,
+    "fields": {
+      "theme": "idol",
+      "content": "오른쪽 사람 최애에 관한 퀴즈 틀리면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 87,
+    "fields": {
+      "theme": "idol",
+      "content": "음방 1개 틀고 고른 시간에 최애 나오면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 88,
+    "fields": {
+      "theme": "idol",
+      "content": "나는 사실 한 장르만 좋아하는 게 아니다. 마시자"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 89,
+    "fields": {
+      "theme": "idol",
+      "content": "최애 이름으로 아이엠그라운드"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 90,
+    "fields": {
+      "theme": "idol",
+      "content": "최애랑 가장 닮은 사람 지목 러브샷"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 91,
+    "fields": {
+      "theme": "idol",
+      "content": "1달 간 여기에 돈 5만원 이하 썼다 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 92,
+    "fields": {
+      "theme": "idol",
+      "content": "내 최애 성대모사"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 93,
+    "fields": {
+      "theme": "idol",
+      "content": "최애 이름으로 삼행시"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 94,
+    "fields": {
+      "theme": "idol",
+      "content": "주제가 한 소절 / 못하면 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 95,
+    "fields": {
+      "theme": "idol",
+      "content": "공식 SNS 가장 최근에 올려준 효자의 어머님 아들이 기특하네요 인정."
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 96,
+    "fields": {
+      "theme": "idol",
+      "content": "고른 노래 재생 시간이 제일 긴 사람 한 잔!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 97,
+    "fields": {
+      "theme": "idol",
+      "content": "원하는 사람 한 명 지목해서 마셔!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 98,
+    "fields": {
+      "theme": "idol",
+      "content": "최애가 예명으로 활동중이면 마셔!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 99,
+    "fields": {
+      "theme": "idol",
+      "content": "갤러리 5번 스크롤해서 고른 사진이 최애면 통과"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 100,
+    "fields": {
+      "theme": "idol",
+      "content": "요즘 관심 있는 사람 있나요? 있다면 누구?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 101,
+    "fields": {
+      "theme": "idol",
+      "content": "오른쪽 친구가 좋아하는 아이돌 멤버 줄줄이 다 말해보기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 102,
+    "fields": {
+      "theme": "college",
+      "content": "다같이 인스타 맞팔 타임! 안 할 거면 마셔 ~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 103,
+    "fields": {
+      "theme": "college",
+      "content": "오늘 가장 먼저 도착한 사람 슬프지만 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 104,
+    "fields": {
+      "theme": "college",
+      "content": "왼쪽 사람에게 하고 싶은 말 하기 or 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 105,
+    "fields": {
+      "theme": "college",
+      "content": "지금 이 자리에서 가장 오래 안 씻은 사람(?) 마시기 (양심 게임)"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 106,
+    "fields": {
+      "theme": "college",
+      "content": "전원 핸드폰 배경화면 공개 or 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 107,
+    "fields": {
+      "theme": "college",
+      "content": "소주파 vs 맥주파 vs 와인파? 끼리 짠!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 108,
+    "fields": {
+      "theme": "college",
+      "content": "무인도에 떨어졌다. 가장 먼저 할 일은?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 109,
+    "fields": {
+      "theme": "college",
+      "content": "오늘의 TMI 하나 공유해보쟈!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 110,
+    "fields": {
+      "theme": "college",
+      "content": "마지막으로 통화한 사람은 누구야~?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 111,
+    "fields": {
+      "theme": "college",
+      "content": "자주 쓰는 말버릇이나 유행어 말해보자!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 112,
+    "fields": {
+      "theme": "college",
+      "content": "이 자리에 있는 사람 중 더 친해지고 싶은 사람은?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 113,
+    "fields": {
+      "theme": "college",
+      "content": "요즘 듣는 노래 추천하고 넘어가~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 114,
+    "fields": {
+      "theme": "college",
+      "content": "가장 최근에 찍은 사진 보여주기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 115,
+    "fields": {
+      "theme": "college",
+      "content": "이따 집 가는 길 가장 먼 사람 슬프지만 마시자~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 116,
+    "fields": {
+      "theme": "college",
+      "content": "폰 배터리 5%로 하루 보내기 vs 와이파이 없이 하루 보내기 / 논쟁에서 진 사람 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 117,
+    "fields": {
+      "theme": "college",
+      "content": "카페인 수혈은 필수! 오늘 학교에서 커피 마신 사람 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 118,
+    "fields": {
+      "theme": "college",
+      "content": "MT에서 더 별로인 사람은? 꼰대 vs 무관심러 논쟁에서 진 사람들 다같이 원샷~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 119,
+    "fields": {
+      "theme": "college",
+      "content": "시간표 정할 때 평점 vs 시간대 논쟁에서 진 사람들 다같이 원샷~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 120,
+    "fields": {
+      "theme": "college",
+      "content": "월요일 1교시 + 시험 보고서 대체 vs 출석 X 시험 한 번 논쟁에서 진 사람들 다같이 짠~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 121,
+    "fields": {
+      "theme": "college",
+      "content": "월공강 vs 금공강"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 122,
+    "fields": {
+      "theme": "college",
+      "content": "사소한 맞춤법도 틀리는 애인 vs 사소한 맞춤법도 지적하는 애인"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 123,
+    "fields": {
+      "theme": "college",
+      "content": "학식 무제한 제공 vs 교내 카페 무료 이용권"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 124,
+    "fields": {
+      "theme": "college",
+      "content": "교수님과 단둘이 엘리베이터 vs 조교랑 술자리"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 125,
+    "fields": {
+      "theme": "college",
+      "content": "모든 강의 평가에 내 이름 실명 언급 vs 교수님한테 SNS 계정 들킴"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 126,
+    "fields": {
+      "theme": "college",
+      "content": "내 앞에서 나 욕하는 교수 vs 내 앞에서 내 칭찬하는 전 애인"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 127,
+    "fields": {
+      "theme": "sports",
+      "content": "다같이 인스타 맞팔 타임! 안 할 거면 마셔 ~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 128,
+    "fields": {
+      "theme": "sports",
+      "content": "오늘 가장 먼저 도착한 사람 슬프지만 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 129,
+    "fields": {
+      "theme": "sports",
+      "content": "왼쪽 사람에게 하고 싶은 말 하기 or 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 130,
+    "fields": {
+      "theme": "sports",
+      "content": "지금 이 자리에서 가장 오래 안 씻은 사람(?) 마시기 (양심 게임)"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 131,
+    "fields": {
+      "theme": "sports",
+      "content": "전원 핸드폰 배경화면 공개 or 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 132,
+    "fields": {
+      "theme": "sports",
+      "content": "소주파 vs 맥주파 vs 와인파? 끼리 짠!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 133,
+    "fields": {
+      "theme": "sports",
+      "content": "무인도에 떨어졌다. 가장 먼저 할 일은?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 134,
+    "fields": {
+      "theme": "sports",
+      "content": "오늘의 TMI 하나 공유해보쟈!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 135,
+    "fields": {
+      "theme": "sports",
+      "content": "마지막으로 통화한 사람은 누구야~?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 136,
+    "fields": {
+      "theme": "sports",
+      "content": "자주 쓰는 말버릇이나 유행어 말해보자!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 137,
+    "fields": {
+      "theme": "sports",
+      "content": "이 자리에 있는 사람 중 더 친해지고 싶은 사람은?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 138,
+    "fields": {
+      "theme": "sports",
+      "content": "요즘 듣는 노래 추천하고 넘어가~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 139,
+    "fields": {
+      "theme": "sports",
+      "content": "가장 최근에 찍은 사진 보여주기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 140,
+    "fields": {
+      "theme": "sports",
+      "content": "이따 집 가는 길 가장 먼 사람 슬프지만 마시자~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 141,
+    "fields": {
+      "theme": "sports",
+      "content": "폰 배터리 5%로 하루 보내기 vs 와이파이 없이 하루 보내기 / 논쟁에서 진 사람 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 142,
+    "fields": {
+      "theme": "sports",
+      "content": "좋아하는 팀 응원할 때 나만의 징크스가 있다면?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 143,
+    "fields": {
+      "theme": "sports",
+      "content": "경기보다가 물건 집어던진 적 있으면 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 144,
+    "fields": {
+      "theme": "sports",
+      "content": "라이벌 팀에게 패배 vs 3등하던 팀인데 5등함"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 145,
+    "fields": {
+      "theme": "sports",
+      "content": "더 슬펐던 순간은? 팀 강등 vs 최애 선수 퇴출"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 146,
+    "fields": {
+      "theme": "sports",
+      "content": "팀원끼리 사이 안 좋은데 1등팀 vs 팀원끼리 사이 좋은데 뒤에서 2등 / 논쟁 진 사람 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 147,
+    "fields": {
+      "theme": "sports",
+      "content": "이적 충격 더 큰 건? 논란 선수 영입 vs 최애가 라이벌팀 이적"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 148,
+    "fields": {
+      "theme": "sports",
+      "content": "응원 중 더 짜증나는 건? 가장 중요한 순간 버퍼링 vs 퍼즈 30분"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 149,
+    "fields": {
+      "theme": "sports",
+      "content": "최애 스포츠 팀 우승 직관 vs 선수와 식사 10분"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 150,
+    "fields": {
+      "theme": "sports",
+      "content": "내 유니폼에 사인 받기 vs 내 이름이 적힌 플래카드 선수 손에 들리기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 151,
+    "fields": {
+      "theme": "sports",
+      "content": "최애 선수가 은퇴 후 해설위원으로 활동 vs 코치로 돌아옴"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 152,
+    "fields": {
+      "theme": "idol",
+      "content": "다같이 인스타 맞팔 타임! 안 할 거면 마셔 ~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 153,
+    "fields": {
+      "theme": "sports",
+      "content": "본인이 우리 팀 패배 요인이다… 마셔!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 154,
+    "fields": {
+      "theme": "idol",
+      "content": "오늘 가장 먼저 도착한 사람 슬프지만 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 155,
+    "fields": {
+      "theme": "idol",
+      "content": "왼쪽 사람에게 하고 싶은 말 하기 or 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 156,
+    "fields": {
+      "theme": "idol",
+      "content": "지금 이 자리에서 가장 오래 안 씻은 사람(?) 마시기 (양심 게임)"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 157,
+    "fields": {
+      "theme": "idol",
+      "content": "전원 핸드폰 배경화면 공개 or 마시기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 158,
+    "fields": {
+      "theme": "idol",
+      "content": "소주파 vs 맥주파 vs 와인파? 끼리 짠!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 159,
+    "fields": {
+      "theme": "idol",
+      "content": "무인도에 떨어졌다. 가장 먼저 할 일은?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 160,
+    "fields": {
+      "theme": "idol",
+      "content": "오늘의 TMI 하나 공유해보쟈!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 161,
+    "fields": {
+      "theme": "idol",
+      "content": "마지막으로 통화한 사람은 누구야~?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 162,
+    "fields": {
+      "theme": "idol",
+      "content": "자주 쓰는 말버릇이나 유행어 말해보자!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 163,
+    "fields": {
+      "theme": "idol",
+      "content": "이 자리에 있는 사람 중 더 친해지고 싶은 사람은?"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 164,
+    "fields": {
+      "theme": "idol",
+      "content": "가장 최근에 찍은 사진 보여주기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 165,
+    "fields": {
+      "theme": "idol",
+      "content": "요즘 듣는 노래 추천하고 넘어가~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 166,
+    "fields": {
+      "theme": "idol",
+      "content": "이따 집 가는 길 가장 먼 사람 슬프지만 마시자~"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 167,
+    "fields": {
+      "theme": "idol",
+      "content": "폰 배터리 5%로 하루 보내기 vs 와이파이 없이 하루 보내기 / 논쟁에서 진 사람 마셔"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 168,
+    "fields": {
+      "theme": "idol",
+      "content": "최애 무대 중 레전드 직캠 공유하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 169,
+    "fields": {
+      "theme": "idol",
+      "content": "덕질하다가 텅장된 적 있으면 마셔!"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 170,
+    "fields": {
+      "theme": "idol",
+      "content": "최애랑 가장 닮은 짤 또는 밈 보여주기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 171,
+    "fields": {
+      "theme": "idol",
+      "content": "탈덕 이유로 더 큰 건? 인성 논란 vs 연애"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 172,
+    "fields": {
+      "theme": "idol",
+      "content": "음악방송 하나만 남긴다면? 인기가요 vs 엠카운트다운"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 173,
+    "fields": {
+      "theme": "idol",
+      "content": "2주 정적 한 번 할 때 30분 vs 3일에 한 번 오는데 안녕? 뭐해? 잘자, 보내고 사라짐"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 174,
+    "fields": {
+      "theme": "idol",
+      "content": "100억 부자 유병재 vs 빚 10억 최애 (최애가 돈 안 벌어줌)"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 175,
+    "fields": {
+      "theme": "idol",
+      "content": "최애의 백댄서 1회 vs 최애 앨범에 코러스 참여"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 176,
+    "fields": {
+      "theme": "college",
+      "content": "교수님이 나만 알아봄 vs 교수님이 나만 모름"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 177,
+    "fields": {
+      "theme": "college",
+      "content": "모든 사람과 얕은 친분 vs 1~2명과만 깊은 친밀감"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 178,
+    "fields": {
+      "theme": "college",
+      "content": "내가 친하다고 생각한 친구가 날 모른 척함 vs 안 친하다고 생각한 친구가 챙겨줌"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 179,
+    "fields": {
+      "theme": "college",
+      "content": "발표에서 5초 멈칫하기 vs 실수로 카톡창 보여지기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 180,
+    "fields": {
+      "theme": "college",
+      "content": "연애 젤 많이 해봤을 것 같은 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 181,
+    "fields": {
+      "theme": "college",
+      "content": "가장 먼저 결혼할 것 같은 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 182,
+    "fields": {
+      "theme": "college",
+      "content": "내가 말하는 모든 문장이 노래로 나옴 vs 내가 걷는 걸음마다 효과음 발생"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 183,
+    "fields": {
+      "theme": "college",
+      "content": "하루 동안 눈 감고 살기 vs 하루 동안 귀 막고 살기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 184,
+    "fields": {
+      "theme": "idol",
+      "content": "떡밥이 없다. 1턴 패스"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 185,
+    "fields": {
+      "theme": "idol",
+      "content": "의리게임. 오른쪽 사람의 최애 퀴즈 맞추기. 틀리면 의리가 없다.. 마시자.."
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 186,
+    "fields": {
+      "theme": "idol",
+      "content": "내가 말하는 모든 문장이 노래로 나옴 vs 내가 걷는 걸음마다 효과음 발생"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 187,
+    "fields": {
+      "theme": "idol",
+      "content": "하루 동안 눈 감고 살기 vs 하루 동안 귀 막고 살기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 208,
+    "fields": {
+      "theme": "college",
+      "content": "길 가다 무작위 퀘스트 생김(“편의점에서 라면 사고 춤추세요”) vs 하루에 한 번 버그 발생"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 209,
+    "fields": {
+      "theme": "college",
+      "content": "가장 에겐녀 / 에겐남인 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 210,
+    "fields": {
+      "theme": "college",
+      "content": "가장 테토녀 / 테토남인 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 211,
+    "fields": {
+      "theme": "college",
+      "content": "오른쪽 사람 MBTI 맞추기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 212,
+    "fields": {
+      "theme": "college",
+      "content": "학식 메뉴 맨날 외우고 있을 것 같은 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 213,
+    "fields": {
+      "theme": "college",
+      "content": "시험 망치고 “나 진짜 망했어” 하면서 A+ 받을 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 214,
+    "fields": {
+      "theme": "college",
+      "content": "팀플 잠수 탈 것 같은 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 215,
+    "fields": {
+      "theme": "sports",
+      "content": "길 가다 무작위 퀘스트 생김(“편의점에서 라면 사고 춤추세요”) vs 하루에 한 번 버그 발생"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 216,
+    "fields": {
+      "theme": "sports",
+      "content": "가장 에겐녀 / 에겐남인 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 217,
+    "fields": {
+      "theme": "sports",
+      "content": "가장 테토녀 / 테토남인 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 218,
+    "fields": {
+      "theme": "sports",
+      "content": "오른쪽 사람 MBTI 맞추기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 219,
+    "fields": {
+      "theme": "sports",
+      "content": "직관 가서 가장 목 터져라 응원할 것 같은 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 220,
+    "fields": {
+      "theme": "idol",
+      "content": "길 가다 무작위 퀘스트 생김(“편의점에서 라면 사고 춤추세요”) vs 하루에 한 번 버그 발생"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 221,
+    "fields": {
+      "theme": "idol",
+      "content": "가장 에겐녀 / 에겐남인 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 222,
+    "fields": {
+      "theme": "idol",
+      "content": "가장 테토녀 / 테토남인 사람 지목하기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 223,
+    "fields": {
+      "theme": "idol",
+      "content": "오른쪽 사람 MBTI 맞추기"
+    }
+  },
+  {
+    "model": "main.question",
+    "pk": 224,
+    "fields": {
+      "theme": "idol",
+      "content": "가장 순애인 사람 지목하기"
+    }
   }
-},
-{
-  "model": "main.question",
-  "pk": 1,
-  "fields": {
-    "theme": "college",
-    "content": "마감 전날 벼락치기 가장 많이 할 것 같은 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 2,
-  "fields": {
-    "theme": "college",
-    "content": "이번 학기 수업 교수님 이름 줄줄이 말하기 시작 ! 기억 못 하면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 3,
-  "fields": {
-    "theme": "college",
-    "content": "팀플에서 잠수 타본 사람 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 4,
-  "fields": {
-    "theme": "college",
-    "content": "CC 경험 있으면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 5,
-  "fields": {
-    "theme": "college",
-    "content": "시험 전날 범위 확인한 적 있으면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 6,
-  "fields": {
-    "theme": "college",
-    "content": "과방 한 번도 안 가봤으면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 7,
-  "fields": {
-    "theme": "college",
-    "content": "MT 에서 일어난 흑역사 말하기 (다른 사람 흑역사도 가능) 못 말하면 마셔 ~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 8,
-  "fields": {
-    "theme": "college",
-    "content": "싸강 처음부터 끝까지 딴 짓 안 하고 들어봤으면 너 인정."
-  }
-},
-{
-  "model": "main.question",
-  "pk": 9,
-  "fields": {
-    "theme": "college",
-    "content": "공강이 없다고요? 눈물의 한 잔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 10,
-  "fields": {
-    "theme": "college",
-    "content": "올클 경험자입니까? 기만자는 마시자."
-  }
-},
-{
-  "model": "main.question",
-  "pk": 11,
-  "fields": {
-    "theme": "college",
-    "content": "학번 헷갈려서 말 놓은 적 있으면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 12,
-  "fields": {
-    "theme": "college",
-    "content": "지금부터 3턴 동안 할머니 게임 시작 웃는 사람 벌칙"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 13,
-  "fields": {
-    "theme": "college",
-    "content": "애교 뀨?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 14,
-  "fields": {
-    "theme": "college",
-    "content": "오늘 인스타 스토리 올린 거 젤 많은 사람 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 15,
-  "fields": {
-    "theme": "college",
-    "content": "대학생활 중 가장 웃겼던 잼얘 썰 풀기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 16,
-  "fields": {
-    "theme": "college",
-    "content": "이제는 말할 수 있다. 대학 생활 중 가장 빡쳤던 썰 풀기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 17,
-  "fields": {
-    "theme": "college",
-    "content": "지금 턴인 사람 오른쪽 사람과 러브샷 고고링"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 18,
-  "fields": {
-    "theme": "college",
-    "content": "대학교 최악의 강의 썰 하나 풀기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 19,
-  "fields": {
-    "theme": "college",
-    "content": "당신의 연애는… 안녕하십니까? 아니요는 마실까?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 20,
-  "fields": {
-    "theme": "college",
-    "content": "지금 우리 학교로 N행시"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 21,
-  "fields": {
-    "theme": "college",
-    "content": "지목 러브샷"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 22,
-  "fields": {
-    "theme": "college",
-    "content": "건배사 하고 다 같이 한 잔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 23,
-  "fields": {
-    "theme": "college",
-    "content": "오늘 이 자리에서 한 명과 단둘이 술 마신다면?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 24,
-  "fields": {
-    "theme": "college",
-    "content": "본인 포함 3명 지목 함께 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 25,
-  "fields": {
-    "theme": "college",
-    "content": "이번주 과제 제일 많은 사람 한 잔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 26,
-  "fields": {
-    "theme": "college",
-    "content": "학년이 가장 높은 사람 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 27,
-  "fields": {
-    "theme": "college",
-    "content": "손병호 게임 시작"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 28,
-  "fields": {
-    "theme": "college",
-    "content": "랜덤 게임 시작!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 29,
-  "fields": {
-    "theme": "college",
-    "content": "침묵의 공공칠빵 시작!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 30,
-  "fields": {
-    "theme": "college",
-    "content": "MBTI T면 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 31,
-  "fields": {
-    "theme": "college",
-    "content": "술 쿨타임 찼다. 마시자!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 32,
-  "fields": {
-    "theme": "college",
-    "content": "인스타 팔로워 젤 많은 사람 마셔!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 33,
-  "fields": {
-    "theme": "sports",
-    "content": "최근 직관 간 사람 제외, 나머지 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 34,
-  "fields": {
-    "theme": "sports",
-    "content": "응원법 따라 못 하면 마시기 (박자 틀리면 원샷)"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 35,
-  "fields": {
-    "theme": "sports",
-    "content": "유니폼 소장 중인 사람은 통과, 없으면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 36,
-  "fields": {
-    "theme": "sports",
-    "content": "본인이 승리요정이다! 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 37,
-  "fields": {
-    "theme": "sports",
-    "content": "시차 때문에 새벽 경기 본 사람 마시기\n최애 이적에 충격 먹은 적 있다면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 38,
-  "fields": {
-    "theme": "sports",
-    "content": "혼자 직관 or 단관해본 사람 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 39,
-  "fields": {
-    "theme": "sports",
-    "content": "팀 응원도구 하나라도 있으면 통과, 없으면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 40,
-  "fields": {
-    "theme": "sports",
-    "content": "도핑테스트! 흥분 상태 유지 중인 사람 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 41,
-  "fields": {
-    "theme": "sports",
-    "content": "응원팀 우승 경험 말 못하면 눈물의 한 잔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 42,
-  "fields": {
-    "theme": "sports",
-    "content": "최애/팀이 비매너 논란 있었던 적 있다면… 쉴드 치지 말고 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 43,
-  "fields": {
-    "theme": "sports",
-    "content": "최애 선수 백넘버 기억 못 하면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 44,
-  "fields": {
-    "theme": "sports",
-    "content": "최애가 벤치딱이 되었다. 1턴 휴식"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 45,
-  "fields": {
-    "theme": "sports",
-    "content": "형은 그냥 마셔 ~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 46,
-  "fields": {
-    "theme": "sports",
-    "content": "가장 최근 경기 이겼으면 마셔 ~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 47,
-  "fields": {
-    "theme": "sports",
-    "content": "아 비가 온다.. 술이나 먹으러 가자"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 48,
-  "fields": {
-    "theme": "sports",
-    "content": "내 최애가 가장 최근에 이적한 사람 마셔 (공식 공지 기준/ 팀갈일 경우 팀 내 이적 온 사람)"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 49,
-  "fields": {
-    "theme": "sports",
-    "content": "당신의 팀은 매일 지고 있습니다. 마시자…"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 50,
-  "fields": {
-    "theme": "sports",
-    "content": "내 팀/최애가 가장 잘한 경기 3개 5초 안에 말하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 51,
-  "fields": {
-    "theme": "sports",
-    "content": "유니폼 제일 많이 산 사람 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 52,
-  "fields": {
-    "theme": "sports",
-    "content": "내가 가장 열 받았던 경기 썰"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 53,
-  "fields": {
-    "theme": "sports",
-    "content": "최애 선수랑 가장 닮은 사람 지목 러브샷"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 54,
-  "fields": {
-    "theme": "sports",
-    "content": "지목 팀 팬 아닌 사람 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 55,
-  "fields": {
-    "theme": "sports",
-    "content": "제일 싫어하는 상대팀은? 그 팀 팬 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 56,
-  "fields": {
-    "theme": "sports",
-    "content": "내가 좋아하는 팀 이름으로 삼행시"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 57,
-  "fields": {
-    "theme": "sports",
-    "content": "팀 응원가 1초라도 따라하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 58,
-  "fields": {
-    "theme": "sports",
-    "content": "최애 팀 선수 행동 따라하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 59,
-  "fields": {
-    "theme": "sports",
-    "content": "1분 동안 내 팀 자랑만 하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 60,
-  "fields": {
-    "theme": "sports",
-    "content": "입덕 계기 얘기하면서 모두 한 잔!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 61,
-  "fields": {
-    "theme": "sports",
-    "content": "최근 본 영상이 최애면 한 잔!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 62,
-  "fields": {
-    "theme": "sports",
-    "content": "내 최애 선수가 캐리했다. 축하합니다. 마시세요"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 63,
-  "fields": {
-    "theme": "sports",
-    "content": "당신은 가장 최근 직관을 다녀오셨습니다? 맞다면 통과"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 64,
-  "fields": {
-    "theme": "sports",
-    "content": "5초 안에 내 최애 선수 명대사 하나 말하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 65,
-  "fields": {
-    "theme": "sports",
-    "content": "내 선수가 주전이다! 나 빼고 모두 한 잔!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 66,
-  "fields": {
-    "theme": "sports",
-    "content": "최근 덕질 소비가 가장 많은 사람 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 67,
-  "fields": {
-    "theme": "sports",
-    "content": "내 최애의 흑역사 하나씩 말하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 68,
-  "fields": {
-    "theme": "sports",
-    "content": "우리팀이 좋은 이유 3가지 10초 안에 말하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 69,
-  "fields": {
-    "theme": "idol",
-    "content": "최애 성대모사 실패하면 마시기 (심사는 전원 다수결)"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 70,
-  "fields": {
-    "theme": "idol",
-    "content": "입덕한 지 제일 얼마 안 된 사람, 원샷"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 71,
-  "fields": {
-    "theme": "idol",
-    "content": "입덕 연차 제일 높은 사람… 자존심 세우지 말고 마셔요"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 72,
-  "fields": {
-    "theme": "idol",
-    "content": "지금 나는 최애 인형을 가지고 왔다. 인형 자랑하면서 마셔볼까?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 73,
-  "fields": {
-    "theme": "idol",
-    "content": "10초 안에 최애가 좋은 이유 3가지 말하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 74,
-  "fields": {
-    "theme": "idol",
-    "content": "민첩한 하루 보내세요 “눈치게임 시작”"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 75,
-  "fields": {
-    "theme": "idol",
-    "content": "가장 최근에 최애에게 버블 온 효자 누구야?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 76,
-  "fields": {
-    "theme": "idol",
-    "content": "최애 생일이 짝수인 사람 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 77,
-  "fields": {
-    "theme": "idol",
-    "content": "공계 팔로워 제일 많은 존잘님 마셔주세요"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 78,
-  "fields": {
-    "theme": "idol",
-    "content": "입덕을 축하합니다. 다같이 입덕주 !"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 79,
-  "fields": {
-    "theme": "idol",
-    "content": "돌려돌려 포카 뽑기 뽑았는데 다른 집 아들이다? 엄마 서운해요 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 80,
-  "fields": {
-    "theme": "idol",
-    "content": "탈빠 실패 위로하며 다같이 원샷"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 81,
-  "fields": {
-    "theme": "idol",
-    "content": "왼쪽 사람 최애 장점 10초 안에 3개"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 82,
-  "fields": {
-    "theme": "idol",
-    "content": "대리티켓팅! 오른쪽 사람이 한 잔 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 83,
-  "fields": {
-    "theme": "idol",
-    "content": "가장 최근에 저장한 사진이 최애가 아니라면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 84,
-  "fields": {
-    "theme": "idol",
-    "content": "돌아가면서 X씨성 가진 아이돌 말하기 ( X씨는 첫 사람이 정하기 !)"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 85,
-  "fields": {
-    "theme": "idol",
-    "content": "왼쪽 사람이 정해준 날짜에 구최애게 스케줄 있었으면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 86,
-  "fields": {
-    "theme": "idol",
-    "content": "오른쪽 사람 최애에 관한 퀴즈 틀리면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 87,
-  "fields": {
-    "theme": "idol",
-    "content": "음방 1개 틀고 고른 시간에 최애 나오면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 88,
-  "fields": {
-    "theme": "idol",
-    "content": "나는 사실 한 장르만 좋아하는 게 아니다. 마시자"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 89,
-  "fields": {
-    "theme": "idol",
-    "content": "최애 이름으로 아이엠그라운드"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 90,
-  "fields": {
-    "theme": "idol",
-    "content": "최애랑 가장 닮은 사람 지목 러브샷"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 91,
-  "fields": {
-    "theme": "idol",
-    "content": "1달 간 여기에 돈 5만원 이하 썼다 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 92,
-  "fields": {
-    "theme": "idol",
-    "content": "내 최애 성대모사"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 93,
-  "fields": {
-    "theme": "idol",
-    "content": "최애 이름으로 삼행시"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 94,
-  "fields": {
-    "theme": "idol",
-    "content": "주제가 한 소절 / 못하면 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 95,
-  "fields": {
-    "theme": "idol",
-    "content": "공식 SNS 가장 최근에 올려준 효자의 어머님 아들이 기특하네요 인정."
-  }
-},
-{
-  "model": "main.question",
-  "pk": 96,
-  "fields": {
-    "theme": "idol",
-    "content": "고른 노래 재생 시간이 제일 긴 사람 한 잔!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 97,
-  "fields": {
-    "theme": "idol",
-    "content": "원하는 사람 한 명 지목해서 마셔!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 98,
-  "fields": {
-    "theme": "idol",
-    "content": "최애가 예명으로 활동중이면 마셔!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 99,
-  "fields": {
-    "theme": "idol",
-    "content": "갤러리 5번 스크롤해서 고른 사진이 최애면 통과"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 100,
-  "fields": {
-    "theme": "idol",
-    "content": "요즘 관심 있는 사람 있나요? 있다면 누구?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 101,
-  "fields": {
-    "theme": "idol",
-    "content": "오른쪽 친구가 좋아하는 아이돌 멤버 줄줄이 다 말해보기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 102,
-  "fields": {
-    "theme": "college",
-    "content": "다같이 인스타 맞팔 타임! 안 할 거면 마셔 ~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 103,
-  "fields": {
-    "theme": "college",
-    "content": "오늘 가장 먼저 도착한 사람 슬프지만 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 104,
-  "fields": {
-    "theme": "college",
-    "content": "왼쪽 사람에게 하고 싶은 말 하기 or 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 105,
-  "fields": {
-    "theme": "college",
-    "content": "지금 이 자리에서 가장 오래 안 씻은 사람(?) 마시기 (양심 게임)"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 106,
-  "fields": {
-    "theme": "college",
-    "content": "전원 핸드폰 배경화면 공개 or 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 107,
-  "fields": {
-    "theme": "college",
-    "content": "소주파 vs 맥주파 vs 와인파? 끼리 짠!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 108,
-  "fields": {
-    "theme": "college",
-    "content": "무인도에 떨어졌다. 가장 먼저 할 일은?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 109,
-  "fields": {
-    "theme": "college",
-    "content": "오늘의 TMI 하나 공유해보쟈!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 110,
-  "fields": {
-    "theme": "college",
-    "content": "마지막으로 통화한 사람은 누구야~?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 111,
-  "fields": {
-    "theme": "college",
-    "content": "자주 쓰는 말버릇이나 유행어 말해보자!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 112,
-  "fields": {
-    "theme": "college",
-    "content": "이 자리에 있는 사람 중 더 친해지고 싶은 사람은?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 113,
-  "fields": {
-    "theme": "college",
-    "content": "요즘 듣는 노래 추천하고 넘어가~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 114,
-  "fields": {
-    "theme": "college",
-    "content": "가장 최근에 찍은 사진 보여주기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 115,
-  "fields": {
-    "theme": "college",
-    "content": "이따 집 가는 길 가장 먼 사람 슬프지만 마시자~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 116,
-  "fields": {
-    "theme": "college",
-    "content": "폰 배터리 5%로 하루 보내기 vs 와이파이 없이 하루 보내기 / 논쟁에서 진 사람 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 117,
-  "fields": {
-    "theme": "college",
-    "content": "카페인 수혈은 필수! 오늘 학교에서 커피 마신 사람 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 118,
-  "fields": {
-    "theme": "college",
-    "content": "MT에서 더 별로인 사람은? 꼰대 vs 무관심러 논쟁에서 진 사람들 다같이 원샷~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 119,
-  "fields": {
-    "theme": "college",
-    "content": "시간표 정할 때 평점 vs 시간대 논쟁에서 진 사람들 다같이 원샷~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 120,
-  "fields": {
-    "theme": "college",
-    "content": "월요일 1교시 + 시험 보고서 대체 vs 출석 X 시험 한 번 논쟁에서 진 사람들 다같이 짠~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 121,
-  "fields": {
-    "theme": "college",
-    "content": "월공강 vs 금공강"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 122,
-  "fields": {
-    "theme": "college",
-    "content": "사소한 맞춤법도 틀리는 애인 vs 사소한 맞춤법도 지적하는 애인"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 123,
-  "fields": {
-    "theme": "college",
-    "content": "학식 무제한 제공 vs 교내 카페 무료 이용권"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 124,
-  "fields": {
-    "theme": "college",
-    "content": "교수님과 단둘이 엘리베이터 vs 조교랑 술자리"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 125,
-  "fields": {
-    "theme": "college",
-    "content": "모든 강의 평가에 내 이름 실명 언급 vs 교수님한테 SNS 계정 들킴"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 126,
-  "fields": {
-    "theme": "college",
-    "content": "내 앞에서 나 욕하는 교수 vs 내 앞에서 내 칭찬하는 전 애인"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 127,
-  "fields": {
-    "theme": "sports",
-    "content": "다같이 인스타 맞팔 타임! 안 할 거면 마셔 ~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 128,
-  "fields": {
-    "theme": "sports",
-    "content": "오늘 가장 먼저 도착한 사람 슬프지만 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 129,
-  "fields": {
-    "theme": "sports",
-    "content": "왼쪽 사람에게 하고 싶은 말 하기 or 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 130,
-  "fields": {
-    "theme": "sports",
-    "content": "지금 이 자리에서 가장 오래 안 씻은 사람(?) 마시기 (양심 게임)"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 131,
-  "fields": {
-    "theme": "sports",
-    "content": "전원 핸드폰 배경화면 공개 or 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 132,
-  "fields": {
-    "theme": "sports",
-    "content": "소주파 vs 맥주파 vs 와인파? 끼리 짠!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 133,
-  "fields": {
-    "theme": "sports",
-    "content": "무인도에 떨어졌다. 가장 먼저 할 일은?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 134,
-  "fields": {
-    "theme": "sports",
-    "content": "오늘의 TMI 하나 공유해보쟈!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 135,
-  "fields": {
-    "theme": "sports",
-    "content": "마지막으로 통화한 사람은 누구야~?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 136,
-  "fields": {
-    "theme": "sports",
-    "content": "자주 쓰는 말버릇이나 유행어 말해보자!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 137,
-  "fields": {
-    "theme": "sports",
-    "content": "이 자리에 있는 사람 중 더 친해지고 싶은 사람은?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 138,
-  "fields": {
-    "theme": "sports",
-    "content": "요즘 듣는 노래 추천하고 넘어가~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 139,
-  "fields": {
-    "theme": "sports",
-    "content": "가장 최근에 찍은 사진 보여주기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 140,
-  "fields": {
-    "theme": "sports",
-    "content": "이따 집 가는 길 가장 먼 사람 슬프지만 마시자~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 141,
-  "fields": {
-    "theme": "sports",
-    "content": "폰 배터리 5%로 하루 보내기 vs 와이파이 없이 하루 보내기 / 논쟁에서 진 사람 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 142,
-  "fields": {
-    "theme": "sports",
-    "content": "좋아하는 팀 응원할 때 나만의 징크스가 있다면?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 143,
-  "fields": {
-    "theme": "sports",
-    "content": "경기보다가 물건 집어던진 적 있으면 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 144,
-  "fields": {
-    "theme": "sports",
-    "content": "라이벌 팀에게 패배 vs 3등하던 팀인데 5등함"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 145,
-  "fields": {
-    "theme": "sports",
-    "content": "더 슬펐던 순간은? 팀 강등 vs 최애 선수 퇴출"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 146,
-  "fields": {
-    "theme": "sports",
-    "content": "팀원끼리 사이 안 좋은데 1등팀 vs 팀원끼리 사이 좋은데 뒤에서 2등 / 논쟁 진 사람 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 147,
-  "fields": {
-    "theme": "sports",
-    "content": "이적 충격 더 큰 건? 논란 선수 영입 vs 최애가 라이벌팀 이적"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 148,
-  "fields": {
-    "theme": "sports",
-    "content": "응원 중 더 짜증나는 건? 가장 중요한 순간 버퍼링 vs 퍼즈 30분"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 149,
-  "fields": {
-    "theme": "sports",
-    "content": "최애 스포츠 팀 우승 직관 vs 선수와 식사 10분"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 150,
-  "fields": {
-    "theme": "sports",
-    "content": "내 유니폼에 사인 받기 vs 내 이름이 적힌 플래카드 선수 손에 들리기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 151,
-  "fields": {
-    "theme": "sports",
-    "content": "최애 선수가 은퇴 후 해설위원으로 활동 vs 코치로 돌아옴"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 152,
-  "fields": {
-    "theme": "idol",
-    "content": "다같이 인스타 맞팔 타임! 안 할 거면 마셔 ~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 153,
-  "fields": {
-    "theme": "sports",
-    "content": "본인이 우리 팀 패배 요인이다… 마셔!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 154,
-  "fields": {
-    "theme": "idol",
-    "content": "오늘 가장 먼저 도착한 사람 슬프지만 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 155,
-  "fields": {
-    "theme": "idol",
-    "content": "왼쪽 사람에게 하고 싶은 말 하기 or 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 156,
-  "fields": {
-    "theme": "idol",
-    "content": "지금 이 자리에서 가장 오래 안 씻은 사람(?) 마시기 (양심 게임)"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 157,
-  "fields": {
-    "theme": "idol",
-    "content": "전원 핸드폰 배경화면 공개 or 마시기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 158,
-  "fields": {
-    "theme": "idol",
-    "content": "소주파 vs 맥주파 vs 와인파? 끼리 짠!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 159,
-  "fields": {
-    "theme": "idol",
-    "content": "무인도에 떨어졌다. 가장 먼저 할 일은?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 160,
-  "fields": {
-    "theme": "idol",
-    "content": "오늘의 TMI 하나 공유해보쟈!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 161,
-  "fields": {
-    "theme": "idol",
-    "content": "마지막으로 통화한 사람은 누구야~?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 162,
-  "fields": {
-    "theme": "idol",
-    "content": "자주 쓰는 말버릇이나 유행어 말해보자!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 163,
-  "fields": {
-    "theme": "idol",
-    "content": "이 자리에 있는 사람 중 더 친해지고 싶은 사람은?"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 164,
-  "fields": {
-    "theme": "idol",
-    "content": "가장 최근에 찍은 사진 보여주기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 165,
-  "fields": {
-    "theme": "idol",
-    "content": "요즘 듣는 노래 추천하고 넘어가~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 166,
-  "fields": {
-    "theme": "idol",
-    "content": "이따 집 가는 길 가장 먼 사람 슬프지만 마시자~"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 167,
-  "fields": {
-    "theme": "idol",
-    "content": "폰 배터리 5%로 하루 보내기 vs 와이파이 없이 하루 보내기 / 논쟁에서 진 사람 마셔"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 168,
-  "fields": {
-    "theme": "idol",
-    "content": "최애 무대 중 레전드 직캠 공유하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 169,
-  "fields": {
-    "theme": "idol",
-    "content": "덕질하다가 텅장된 적 있으면 마셔!"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 170,
-  "fields": {
-    "theme": "idol",
-    "content": "최애랑 가장 닮은 짤 또는 밈 보여주기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 171,
-  "fields": {
-    "theme": "idol",
-    "content": "탈덕 이유로 더 큰 건? 인성 논란 vs 연애"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 172,
-  "fields": {
-    "theme": "idol",
-    "content": "음악방송 하나만 남긴다면? 인기가요 vs 엠카운트다운"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 173,
-  "fields": {
-    "theme": "idol",
-    "content": "2주 정적 한 번 할 때 30분 vs 3일에 한 번 오는데 안녕? 뭐해? 잘자, 보내고 사라짐"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 174,
-  "fields": {
-    "theme": "idol",
-    "content": "100억 부자 유병재 vs 빚 10억 최애 (최애가 돈 안 벌어줌)"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 175,
-  "fields": {
-    "theme": "idol",
-    "content": "최애의 백댄서 1회 vs 최애 앨범에 코러스 참여"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 176,
-  "fields": {
-    "theme": "college",
-    "content": "교수님이 나만 알아봄 vs 교수님이 나만 모름"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 177,
-  "fields": {
-    "theme": "college",
-    "content": "모든 사람과 얕은 친분 vs 1~2명과만 깊은 친밀감"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 178,
-  "fields": {
-    "theme": "college",
-    "content": "내가 친하다고 생각한 친구가 날 모른 척함 vs 안 친하다고 생각한 친구가 챙겨줌"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 179,
-  "fields": {
-    "theme": "college",
-    "content": "발표에서 5초 멈칫하기 vs 실수로 카톡창 보여지기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 180,
-  "fields": {
-    "theme": "college",
-    "content": "연애 젤 많이 해봤을 것 같은 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 181,
-  "fields": {
-    "theme": "college",
-    "content": "가장 먼저 결혼할 것 같은 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 182,
-  "fields": {
-    "theme": "college",
-    "content": "내가 말하는 모든 문장이 노래로 나옴 vs 내가 걷는 걸음마다 효과음 발생"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 183,
-  "fields": {
-    "theme": "college",
-    "content": "하루 동안 눈 감고 살기 vs 하루 동안 귀 막고 살기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 184,
-  "fields": {
-    "theme": "idol",
-    "content": "떡밥이 없다. 1턴 패스"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 185,
-  "fields": {
-    "theme": "idol",
-    "content": "의리게임. 오른쪽 사람의 최애 퀴즈 맞추기. 틀리면 의리가 없다.. 마시자.."
-  }
-},
-{
-  "model": "main.question",
-  "pk": 186,
-  "fields": {
-    "theme": "idol",
-    "content": "내가 말하는 모든 문장이 노래로 나옴 vs 내가 걷는 걸음마다 효과음 발생"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 187,
-  "fields": {
-    "theme": "idol",
-    "content": "하루 동안 눈 감고 살기 vs 하루 동안 귀 막고 살기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 208,
-  "fields": {
-    "theme": "college",
-    "content": "길 가다 무작위 퀘스트 생김(“편의점에서 라면 사고 춤추세요”) vs 하루에 한 번 버그 발생"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 209,
-  "fields": {
-    "theme": "college",
-    "content": "가장 에겐녀 / 에겐남인 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 210,
-  "fields": {
-    "theme": "college",
-    "content": "가장 테토녀 / 테토남인 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 211,
-  "fields": {
-    "theme": "college",
-    "content": "오른쪽 사람 MBTI 맞추기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 212,
-  "fields": {
-    "theme": "college",
-    "content": "학식 메뉴 맨날 외우고 있을 것 같은 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 213,
-  "fields": {
-    "theme": "college",
-    "content": "시험 망치고 “나 진짜 망했어” 하면서 A+ 받을 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 214,
-  "fields": {
-    "theme": "college",
-    "content": "팀플 잠수 탈 것 같은 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 215,
-  "fields": {
-    "theme": "sports",
-    "content": "길 가다 무작위 퀘스트 생김(“편의점에서 라면 사고 춤추세요”) vs 하루에 한 번 버그 발생"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 216,
-  "fields": {
-    "theme": "sports",
-    "content": "가장 에겐녀 / 에겐남인 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 217,
-  "fields": {
-    "theme": "sports",
-    "content": "가장 테토녀 / 테토남인 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 218,
-  "fields": {
-    "theme": "sports",
-    "content": "오른쪽 사람 MBTI 맞추기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 219,
-  "fields": {
-    "theme": "sports",
-    "content": "직관 가서 가장 목 터져라 응원할 것 같은 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 220,
-  "fields": {
-    "theme": "idol",
-    "content": "길 가다 무작위 퀘스트 생김(“편의점에서 라면 사고 춤추세요”) vs 하루에 한 번 버그 발생"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 221,
-  "fields": {
-    "theme": "idol",
-    "content": "가장 에겐녀 / 에겐남인 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 222,
-  "fields": {
-    "theme": "idol",
-    "content": "가장 테토녀 / 테토남인 사람 지목하기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 223,
-  "fields": {
-    "theme": "idol",
-    "content": "오른쪽 사람 MBTI 맞추기"
-  }
-},
-{
-  "model": "main.question",
-  "pk": 224,
-  "fields": {
-    "theme": "idol",
-    "content": "가장 순애인 사람 지목하기"
-  }
-}
 ]
